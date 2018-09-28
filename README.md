@@ -6,8 +6,9 @@ This code mainly implements a simple classifier by numpy. SVM loss (hinge loss) 
 Five Windows font are used to validate the classifier, Figures are as follow:
 
 ## Resluts
-Loss：
-![](https://github.com/MingtaoGuo/Simple-Classifier-by-back-propatation/blob/master/IMAGES/loss.png)
+### Loss：
 
-Accuracy:
+
+### Accuracy:
+
 ![](https://github.com/MingtaoGuo/Simple-Classifier-by-back-propatation/blob/master/IMAGES/acc.png)
