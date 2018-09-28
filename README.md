@@ -8,6 +8,7 @@ Five Windows font are used to validate the classifier, Figures are as follow:
 ## Resluts
 ### Loss：
 
+![](https://github.com/MingtaoGuo/Simple-Classifier-by-back-propatation/blob/master/IMAGES/loss.png)
 
 ### Accuracy:
 
