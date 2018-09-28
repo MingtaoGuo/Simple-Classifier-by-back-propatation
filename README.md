@@ -1,7 +1,7 @@
 # Simple-Classifier-by-back-propatation
 Implementing a simple classifier by numpy
 ## Introduction
-This code mainly implements a simple classifier by numpy. SVM loss (hinge loss) function is used in this classifier, and we use back propagation (chain rule) algorithm to update the Weights and bias. 
+This code mainly implements a simple classifier by numpy. SVM loss (hinge loss) function is used in this classifier, and we use back propagation (chain rule) algorithm to update the Weights and bias. What's more, Principal component analysis (PCA) is used to extract the features for training and test. The data 'cxlak_pca.mat' has been processed by PCA.
 ## Data
 Five Windows font are used to validate the classifier, Figures are as follow:
 
